@@ -9,3 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@pmareke](twitter.com/pmareke) on Twitter!
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love cycling!
+
+![Pmareke's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmareke&theme=dark&show_icons=true) 
