@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 - Merged PR [unicode package](https://go-review.googlesource.com/c/go/+/353691) in [Go](https://github.com/golang/go)
-- Opened PR [#2563](https://github.com/goreleaser/goreleaser/pull/2563) in [goreleaser](https://github.com/goreleaser/goreleaser)
+- Merged PR [#2563](https://github.com/goreleaser/goreleaser/pull/2563) in [goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 ### Stats
