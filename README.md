@@ -10,3 +10,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love cycling!
 
 ![Pmareke's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmareke&theme=dark&show_icons=true) 
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 💪 Merged PR [#2563](https://github.com/golang/go/blob/master/src/unicode/example_test.go) in [golang/go](https://github.com/golang/go)
+2. 💪 Opened PR [#2563](https://github.com/goreleaser/goreleaser/pull/2563) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+<!--END_SECTION:activity-->
