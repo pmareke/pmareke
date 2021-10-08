@@ -3,7 +3,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at [@empatyco](https://github.com/empathyco)
-- 🌱 I’m currently learning GO ([Golang contributor](https://go-review.googlesource.com/q/owner:pedro.lopez.mareque%2540gmail.com))
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: [@pmareke](twitter.com/pmareke) on Twitter!
 - 👨🏽‍💻 You can read more about me [here](pmareke.com)
