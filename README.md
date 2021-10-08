@@ -3,10 +3,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at [@empatyco](https://github.com/empathyco)
-- 💬 Ask me about anything you want!
-- 📫 How to reach me: [@pmareke](twitter.com/pmareke) on Twitter!
+- 📫 Reach me on Twitter [@pmareke](twitter.com/pmareke)
 - 👨🏽‍💻 You can read more about me [here](pmareke.com)
-- 😄 Pronouns: He
 - ⚡ Fun fact: I love cycling!
 
 ### :zap: Recent Activity
