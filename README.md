@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👨🏽‍💻 You can read more about me [here](pmareke.com)
 - ⚡ Fun fact: I love cycling!
 
-### :zap: Recent Activity
+### Recent Activity
 
 <!--START_SECTION:activity-->
 - Merged PR [feat: unicode package](https://go-review.googlesource.com/c/go/+/353691) in [Go](https://github.com/golang/go)
