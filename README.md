@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+- Merged PR [feat: headless package](https://github.com/projectdiscovery/nuclei/pull/1101) in [Nuclei](https://github.com/projectdiscovery/nuclei)
 - Merged PR [feat: unicode package](https://go-review.googlesource.com/c/go/+/353691) in [Go](https://github.com/golang/go)
 - Merged PR [fix: unicode package](https://go-review.googlesource.com/c/go/+/354509) in [Go](https://github.com/golang/go)
 - Merged PR [feat: math package](https://go-review.googlesource.com/c/go/+/353689) in [Go](https://github.com/golang/go)
