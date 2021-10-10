@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+- [Add new custom error](https://github.com/celestiaorg/optimint/pull/148) in [Optimint](celestiaorg/optimint)
 - [Add unit tests](https://github.com/projectdiscovery/nuclei/pull/1108) in [Nuclei](https://github.com/projectdiscovery/nuclei)
 - [Improve headless package](https://github.com/projectdiscovery/nuclei/pull/1101) in [Nuclei](https://github.com/projectdiscovery/nuclei)
 - [Unicode package](https://go-review.googlesource.com/c/go/+/353691) in [Go](https://github.com/golang/go)
