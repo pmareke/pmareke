@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+- [Fix error in the buildtarget package](https://github.com/goreleaser/goreleaser/pull/2587) in [GoReleaser](https://github.com/goreleaser/goreleaser)
 - [Add new custom error](https://github.com/celestiaorg/optimint/pull/148) in [Optimint](celestiaorg/optimint)
 - [Add unit tests](https://github.com/projectdiscovery/nuclei/pull/1108) in [Nuclei](https://github.com/projectdiscovery/nuclei)
 - [Improve headless package](https://github.com/projectdiscovery/nuclei/pull/1101) in [Nuclei](https://github.com/projectdiscovery/nuclei)
