@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 ### Open Source Contributor
 
 <!--START_SECTION:activity-->
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-- [celestiaorg/optimint](celestiaorg/optimint)
-- [golang/go](https://github.com/golang/go)
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei): Fast and customisable vulnerability scanner based on simple YAML based DSL.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser): Deliver Go binaries as fast and easily as possible.
+- [celestiaorg/optimint](https://github.com/celestiaorg/optimint): ABCI-client implementation for Optimistic Rollups.
+- [golang/go](https://github.com/golang/go): Standard Library
 <!--END_SECTION:activity-->
 
 ### Stats
