@@ -7,13 +7,13 @@ Here are some ideas to get you started:
 - 👨🏽‍💻 You can read more about me [here](pmareke.com)
 - ⚡ Fun fact: I love cycling!
 
-### Open Source Activity
+### Open Source Contributor
 
 <!--START_SECTION:activity-->
-- projectdiscovery/nuclei: [repo](https://github.com/projectdiscovery/nuclei) [contributor](https://github.com/projectdiscovery/nuclei/pulls?q=is:pr+author:pmareke)
-- goreleaser/goreleaser: [repo](https://github.com/goreleaser/goreleaser) [contributor](https://github.com/goreleaser/goreleaser/pulls?q=is:pr+author:pmareke)
-- celestiaorg/optimint: [repo](celestiaorg/optimint) [contributor](https://github.com/celestiaorg/optimint/pulls?q=is:pr+author:pmareke)
-- golang/go: [repo](https://github.com/golang/go) [contributor](https://go-review.googlesource.com/q/owner:pedro.lopez.mareque@gmail.com)
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+- [celestiaorg/optimint](celestiaorg/optimint)
+- [golang/go](https://github.com/golang/go)
 <!--END_SECTION:activity-->
 
 ### Stats
