@@ -7,19 +7,13 @@ Here are some ideas to get you started:
 - 👨🏽‍💻 You can read more about me [here](pmareke.com)
 - ⚡ Fun fact: I love cycling!
 
-### Recent Activity
+### Open Source Activity
 
 <!--START_SECTION:activity-->
-- [Add new flag and JSON output new fields](https://github.com/projectdiscovery/nuclei/pull/1142) in [Nuclei](https://github.com/projectdiscovery/nuclei)
-- [Fix invalid tracker issue config](https://github.com/projectdiscovery/nuclei/pull/1127) in [Nuclei](https://github.com/projectdiscovery/nuclei)
-- [Fix error in the buildtarget package](https://github.com/goreleaser/goreleaser/pull/2587) in [GoReleaser](https://github.com/goreleaser/goreleaser)
-- [Add new custom error](https://github.com/celestiaorg/optimint/pull/148) in [Optimint](celestiaorg/optimint)
-- [Add unit tests](https://github.com/projectdiscovery/nuclei/pull/1108) in [Nuclei](https://github.com/projectdiscovery/nuclei)
-- [Improve headless package](https://github.com/projectdiscovery/nuclei/pull/1101) in [Nuclei](https://github.com/projectdiscovery/nuclei)
-- [Unicode package](https://go-review.googlesource.com/c/go/+/353691) in [Go](https://github.com/golang/go)
-- [Unicode package](https://go-review.googlesource.com/c/go/+/354509) in [Go](https://github.com/golang/go)
-- [Math package](https://go-review.googlesource.com/c/go/+/353689) in [Go](https://github.com/golang/go)
-- [Add telegram bot](https://github.com/goreleaser/goreleaser/pull/2563) in [GoReleaser](https://github.com/goreleaser/goreleaser)
+- projectdiscovery/nuclei: [repo](https://github.com/projectdiscovery/nuclei) [contributor](https://github.com/projectdiscovery/nuclei/pulls?q=is:pr+author:pmareke)
+- goreleaser/goreleaser: [repo](https://github.com/goreleaser/goreleaser) [contributor](https://github.com/goreleaser/goreleaser/pulls?q=is:pr+author:pmareke)
+- celestiaorg/optimint: [repo](celestiaorg/optimint) [contributor](https://github.com/celestiaorg/optimint/pulls?q=is:pr+author:pmareke)
+- golang/go: [repo](https://github.com/golang/go) [contributor](https://go-review.googlesource.com/q/owner:pedro.lopez.mareque@gmail.com)
 <!--END_SECTION:activity-->
 
 ### Stats
