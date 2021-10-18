@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+- [Add new flag and JSON output new fields](https://github.com/projectdiscovery/nuclei/pull/1142) in [Nuclei](https://github.com/projectdiscovery/nuclei)
+- [Fix invalid tracker issue config](https://github.com/projectdiscovery/nuclei/pull/1127) in [Nuclei](https://github.com/projectdiscovery/nuclei)
 - [Fix error in the buildtarget package](https://github.com/goreleaser/goreleaser/pull/2587) in [GoReleaser](https://github.com/goreleaser/goreleaser)
 - [Add new custom error](https://github.com/celestiaorg/optimint/pull/148) in [Optimint](celestiaorg/optimint)
 - [Add unit tests](https://github.com/projectdiscovery/nuclei/pull/1108) in [Nuclei](https://github.com/projectdiscovery/nuclei)
