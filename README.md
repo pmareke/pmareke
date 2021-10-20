@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Me 👋
 
 - 🔭 I’m currently working at [@empatyco](https://github.com/empathyco)
 - 📫 Reach me on Twitter [@pmareke](twitter.com/pmareke)
