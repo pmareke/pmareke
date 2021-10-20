@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👨🏽‍💻 You can read more about me [here](pmareke.com)
 - ⚡ Fun fact: I love cycling!
 
-### Open Source Contributor
+### Go Open Source Contributor
 
 <!--START_SECTION:activity-->
 - [traefik/traefik](https://github.com/traefik/traefik): Modern HTTP reverse proxy and load balancer.
