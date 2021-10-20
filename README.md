@@ -1,4 +1,4 @@
-### Me 👋
+### Me
 
 - 🔭 I’m currently working at [@empatyco](https://github.com/empathyco)
 - 📫 Reach me on Twitter [@pmareke](twitter.com/pmareke)
