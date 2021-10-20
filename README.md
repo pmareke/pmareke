@@ -1,9 +1,9 @@
 ### Me
 
-- 🔭 I’m currently working at [@empatyco](https://github.com/empathyco)
-- 📫 Reach me on Twitter [@pmareke](twitter.com/pmareke)
-- 👨🏽‍💻 You can read more about me [here](pmareke.com)
-- ⚡ Fun fact: I love cycling!
+- I’m currently working at [@empatyco](https://github.com/empathyco)
+- Reach me on Twitter [@pmareke](twitter.com/pmareke)
+- You can read more about me [here](pmareke.com)
+- Fun fact: I love cycling!
 
 ### Go Open Source Contributor
 
