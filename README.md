@@ -1,4 +1,4 @@
-### Me ![](https://komarev.com/ghpvc/?username=pmareke&color=green)
+### Me
 
 - Software Developer at [@empatyco](https://github.com/empathyco)
 - Reach me on Twitter [@pmareke](twitter.com/pmareke)
@@ -21,3 +21,4 @@
 ![Pmareke's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pmareke)
 ![Pmareke's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pmareke)
 ![Pmareke's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pmareke)
+![](https://komarev.com/ghpvc/?username=pmareke&color=green)
