@@ -5,6 +5,8 @@
 - You can read more about me [here](pmareke.com)
 - Fun fact: I love cycling!
 
+![](https://komarev.com/ghpvc/?username=pmareke&color=green)
+
 ### Go Open Source Contributor
 
 <!--START_SECTION:activity-->
