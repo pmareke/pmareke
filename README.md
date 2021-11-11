@@ -1,11 +1,10 @@
-### Me
+### Me ![](https://komarev.com/ghpvc/?username=pmareke&color=green)
 
 - Software Developer at [@empatyco](https://github.com/empathyco)
 - Reach me on Twitter [@pmareke](twitter.com/pmareke)
 - You can read more about me [here](pmareke.com)
 - Fun fact: I love cycling!
 
-![](https://komarev.com/ghpvc/?username=pmareke&color=green)
 
 ### Go Open Source Contributor
 
