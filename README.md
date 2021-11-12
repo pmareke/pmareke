@@ -18,7 +18,5 @@
 <!--END_SECTION:activity-->
 
 ### Stats
-![Pmareke's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pmareke)
-![Pmareke's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pmareke)
-![Pmareke's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pmareke)
+![Pmareke's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmareke&show_icons=true)
 ![](https://komarev.com/ghpvc/?username=pmareke&color=green)
