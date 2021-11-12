@@ -18,5 +18,6 @@
 <!--END_SECTION:activity-->
 
 ### Stats
+![Profile views](https://komarev.com/ghpvc/?username=pmareke&color=green)
+
 ![Pmareke's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmareke&show_icons=true)
-![](https://komarev.com/ghpvc/?username=pmareke&color=green)
