@@ -15,6 +15,7 @@
 - [celestiaorg/optimint](https://github.com/celestiaorg/optimint): ABCI-client implementation for Optimistic Rollups.
 - [golang/go](https://github.com/golang/go): Golang Standard Library.
 - [islomar/tcr-workshop](https://github.com/islomar/tcr-workshop): Information and instructions for trying the TCR workflow (test && commit || revert).
+- [exercism](https://github.com/exercism/typescript/pull/827): Typescript track.
 <!--END_SECTION:activity-->
 
 ### Stats
