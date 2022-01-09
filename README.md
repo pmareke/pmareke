@@ -1,6 +1,6 @@
 ### Me
 
-- Software Developer at [@empatyco](https://github.com/empathyco)
+- Software Developer at [@seedtag](https://github.com/seedtag)
 - Reach me on Twitter [@pmareke](twitter.com/pmareke)
 - You can read more about me [here](pmareke.com)
 - Fun fact: I love cycling!
