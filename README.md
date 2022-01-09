@@ -6,7 +6,7 @@
 - Fun fact: I love cycling!
 
 
-### Go Open Source Contributor
+### Open Source Contributor
 
 <!--START_SECTION:activity-->
 - [traefik/traefik](https://github.com/traefik/traefik): Modern HTTP reverse proxy and load balancer.
