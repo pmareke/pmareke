@@ -1,6 +1,5 @@
 ### Me
 
-- Software Developer at [@seedtag](https://www.github.com/seedtag).
 - Reach me on Twitter [@pmareke](https://www.twitter.com/pmareke).
 - You can read more about me [here](https://www.pmareke.com/about).
 - Fun fact: I love cycling!.
