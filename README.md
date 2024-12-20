@@ -1,14 +1,11 @@
 ### Me
 
-- Reach me on Twitter [@pmareke](https://www.twitter.com/pmareke).
 - You can read more about me [here](https://www.pmareke.com/about).
 - Fun fact: I love cycling!.
 
 ### My websites
 
-- [Learn Ruby with Tests (WIP)](https://learn-ruby-with-tests.pmareke.com/).
-- [Booker](https://booker.pmareke.com/).
-- [URL Shortener](https://shortener.pmareke.com/).
+- [Learn Python with Tests (WIP)](https://learn-python-with-tests.pmareke.com/).
 - [Capitals Quiz](https://capitals.pmareke.com/).
 - [Countries Quiz](https://countries.pmareke.com/).
 
